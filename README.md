@@ -13,3 +13,5 @@ Dev/Cloud: Docker · Flask · FastAPI · Linux
 salsa@Profile:~$ contact
 LinkedIn → https://www.linkedin.com/in/salsabil-guerbej75/
 Email    → your.email@example.com   # ← replace with your real email
+````
+<img src="https://tryhackme-badges.s3.amazonaws.com/dumyysal.png" alt="Your Image Badge" />
