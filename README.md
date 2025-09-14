@@ -1,4 +1,6 @@
-Hello Hello
+<img src="https://tryhackme-badges.s3.amazonaws.com/dumyysal.png" alt="Your Image Badge" />   <img src="hacker.png"/>
+
+
 ```bash
 salsa@Profile:~$ about
 🎓 Final-year ICT Engineering student — Cybersecurity & IoT specialization
@@ -15,6 +17,6 @@ PS: any tool in mind? I’m learning it asap
 salsa@Profile:~$ contact
 LinkedIn → https://www.linkedin.com/in/salsabil-guerbej75/
 Email    → salsabil.guerbej0@gmail.com 
-````
-<img src="https://tryhackme-badges.s3.amazonaws.com/dumyysal.png" alt="Your Image Badge" /> 
+
+
 
