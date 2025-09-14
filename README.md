@@ -1,4 +1,4 @@
-Hey ,
+Hello Hello
 ```bash
 salsa@Profile:~$ about
 🎓 Final-year ICT Engineering student — Cybersecurity & IoT specialization
@@ -10,7 +10,7 @@ salsa@Profile:~$ skills --list
 Languages      : Python · C/C++ · HTML · Bash scripting · JavaScript
 Security Tools : Burp Suite · Metasploit · Nessus · Snort · Nmap · Hydra · John the Ripper · Gobuster · Dirb · nslookup  and many more
 Dev/Cloud      : Docker . cloud environments (AWS, Google Cloud, Azure)
-PS: new tool in mind? I’m learning it asap
+PS: any tool in mind? I’m learning it asap
 
 salsa@Profile:~$ contact
 LinkedIn → https://www.linkedin.com/in/salsabil-guerbej75/
