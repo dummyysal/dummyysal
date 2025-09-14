@@ -1,18 +1,19 @@
 ```bash
 salsa@Profile:~$ about
-🎓 Telecommunications Eng — ENIT (Cybersecurity)
-🔐 Cybersecurity | Cloud | Emerging Tech
-🏆 HTB & TryHackMe — Top 3% worldwide
-⚔️ CTFs, competitions & always learning
+🎓 Final-year ICT Engineering student — Cybersecurity & IoT specialization
+🔐 offensive security | Pentesting | Cloud | SecOps | Digital Forensics | ML/AI | Emerging Tech
+🏆 HTB ( Hacker Rank) | TryHackMe ( Top 3% worldwide )
+⚔️ Ready ALWAYS for the next challenge !
 
 salsa@Profile:~$ skills --list
-Languages: Python · C · Bash
-Security : Kali · Burp Suite · Wireshark · Metasploit
-Dev/Cloud: Docker · Flask · FastAPI · Linux
+Languages      : Python · C/C++ · HTML · Bash scripting · JavaScript
+Security Tools : Burp Suite · Metasploit · Nessus · Snort · Nmap · Hydra · John the Ripper · Gobuster · Dirb · nslookup  and many more
+Dev/Cloud      : Docker . cloud environments (AWS, Google Cloud, Azure)
+PS: new tool in mind? I’m learning it asap
 
 salsa@Profile:~$ contact
 LinkedIn → https://www.linkedin.com/in/salsabil-guerbej75/
-Email    → your.email@example.com   # ← replace with your real email
+Email    → salsabil.guerbej0@gmail.com 
 ````
 <img src="https://tryhackme-badges.s3.amazonaws.com/dumyysal.png" alt="Your Image Badge" /> 
 <img src="hackerrank.png" />
