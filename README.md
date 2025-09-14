@@ -1,4 +1,5 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/dumyysal.png" alt="Your Image Badge" />   <img src="hacker.png"/>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/dumyysal.png" />  <img src="hacker.png" />
 
 
 ```bash
