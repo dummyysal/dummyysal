@@ -1,16 +1,15 @@
-## Hi there 👋
+```bash
+salsa@Profile:~$ about
+🎓 Telecommunications Eng — ENIT (Cybersecurity)
+🔐 Cybersecurity | Cloud | Emerging Tech
+🏆 HTB & TryHackMe — Top 3% worldwide
+⚔️ CTFs, competitions & always learning
 
-<!--
-**dummyysal/dummyysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+salsa@Profile:~$ skills --list
+Languages: Python · C · Bash
+Security : Kali · Burp Suite · Wireshark · Metasploit
+Dev/Cloud: Docker · Flask · FastAPI · Linux
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+salsa@Profile:~$ contact
+LinkedIn → https://www.linkedin.com/in/salsabil-guerbej75/
+Email    → your.email@example.com   # ← replace with your real email
