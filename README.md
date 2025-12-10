@@ -1,6 +1,4 @@
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/dumyysal.png" />  <img src="hacker.png" />
-
 
 ```bash
 salsa@Profile:~$ about
